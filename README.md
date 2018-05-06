@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Stripe
+Experimenting with Stripe's new API
+>>>>>>> 59fd00bd94d23cdcb86d821dd32a8d5ff9459734
